@@ -11,9 +11,9 @@
 
 Ferramentas Utilizadas para Intergração das Informações contidas
 
-   HTML
-   CSS
-   JAVASCRIPT
-   NODE.JS
-   GIT
-   GITHUB
+  . HTML
+  . CSS
+  . JAVASCRIPT
+  . NODE.JS
+  . GIT
+  . GITHUB
